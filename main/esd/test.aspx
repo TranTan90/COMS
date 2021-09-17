@@ -62,10 +62,10 @@
                         <img src="../../images/esd/icon3.png" width="85px" />
                     </td>
                     <td> <span style="color:Blue">
-                        응급조치, 갑작스런 건강 이상시 식당 옆 보건관리실을 방문하여 주세요.</span>
+                        응급조치, 갑작스런 건강 이상시 식당 옆 보건관리실을 방문하여 주세요.
                         <br />
                         Vui lòng đến phòng y tế (cạnh nhà ăn) nếu cần cấp cứu hoặc có dấu hiệu sức khỏe
-                        bất thường.
+                        bất thường.</span>
                     </td>
                 </tr>
                 <tr>
